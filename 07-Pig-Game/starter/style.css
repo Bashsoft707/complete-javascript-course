@@ -56,6 +56,10 @@ main {
   margin-bottom: 1rem;
 }
 
+.hidden {
+  display: none;
+}
+
 .score {
   font-size: 8rem;
   font-weight: 300;
